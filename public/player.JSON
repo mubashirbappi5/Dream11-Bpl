@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Mahmudullah",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/ngtpBk3/download.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 120000
+    },
+    {
+      "playerId": 2,
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co.com/R9Kk9YP/download-1.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 100000
+    },
+    {
+      "playerId": 3,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/0K9twwy/Kane-Williamson.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 200000
+    },
+    {
+      "playerId": 4,
+      "name": "Towhid Hridoy",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/dLy0T5j/Tawhid-Hridoy.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 150000
+    },
+    {
+      "playerId": 5,
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/pyWh3rz/taskin-warm-up-02-01-2024.jpg",  
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 230000
+    },
+    {
+      "playerId": 6,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/56yBSx2/942a4-17194584871812-1920.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": 1000000
+    },
+    {
+      "playerId": 7,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/DbVbQ0S/images-4.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 180000
+    },
+    {
+      "playerId": 8,
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/QFGXsW0/images.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 170000
+    },
+    {
+      "playerId": 9,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/dky9nDD/skysports-rashid-khan-sussex-5166753.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak googly",
+      "biddingPrice": 170000
+    },
+    {
+      "playerId": 10,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/WpLxQK2/ANI-20240624084733.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 400000
+    },
+    {
+      "playerId": 11,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/pZPWN1N/images-1.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 330000
+    },
+    {
+      "playerId": 12,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/VVtdDvC/shakib.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox spin",
+      "biddingPrice": 210000
+    },
+    {
+      "playerId": 13,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/z2Lh7nV/images-5.jpg",
+      "role": "Wicketkeeper Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 190000
+    },
+    {
+      "playerId": 14,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/3krCbxf/images-2.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 230000
+    },
+    {
+      "playerId": 15,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/JRBW92j/images-3.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 500000
+    }
+  ]
+  
